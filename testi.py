@@ -1,7 +1,7 @@
-salasana = int(input("Anna salasana 7 numeroinen salasana: "))
+salasana = int(input("Anna salasana 5 numeroinen salasana: "))
 
 print("Olen pian valmis, salasanan etsintä käynnissä...")
 
-for luku in range(0, 10000000):
+for luku in range(0, 100000):
     if luku == salasana:
         print(f"Salasanasi on {luku}")
