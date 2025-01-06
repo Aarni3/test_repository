@@ -1,3 +1,4 @@
+#Tämä teksti lisätty GitHubin kautta
 salasana = int(input("Anna salasana 5 numeroinen salasana: "))
 
 print("Olen pian valmis, salasanan etsintä käynnissä...")
