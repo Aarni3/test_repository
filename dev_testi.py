@@ -1,2 +1,1 @@
-
-print("This is  a python file in dev environment")
+#Tämä on eri teksti stage-haarassa
